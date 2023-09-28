@@ -1,0 +1,21 @@
+wait(1)
+print("Loading Crim Stuff Lol")
+wait(1)
+
+print("Loading Jahi's Module UWP Bypass and Anti Cheat Disabler")
+
+loadstring(game.HttpGet('https://raw.githubusercontent.com/Jahibiulous/JahibifiedZ/main/Test/ModuleBypasses/UWPAntiCheat.lua'))()
+
+wait(1)
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Jahibiulous/JahibifiedZ/main/TrueYield/Infinity/main/source.lua'))()
+print("Loaded Jahibi's Infinite Yield")
+
+wait(1)
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Jahibiulous/JahibifiedZ/main/outliers/main.lua'))()
+print("Loaded Jahibi's Modded Outliers Hub")
+
+wait(1)
+
+print("finished loading ok cool have fun")
